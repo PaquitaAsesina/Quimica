@@ -1,0 +1,26 @@
+body{
+    text-align: justify;
+    font-size: 110%;
+    font-family: arial;
+    background: rgba(85, 175, 1, 0.425);
+}
+p{
+    color: rgba(93, 24, 150, 0.808);
+}
+li{
+    color: rgba(93, 24, 150, 0.808);
+    overflow: hidden;
+    font-size: 110%;
+}
+h1{
+    color: rgba(93, 24, 150, 0.425);
+}
+h2{
+    color: rgba(93, 24, 150, 0.425);
+}
+h3{
+    color: rgba(93, 24, 150, 0.425);
+}
+h4{
+    color: rgba(93, 24, 150, 0.425);
+}

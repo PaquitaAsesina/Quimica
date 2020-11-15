@@ -1,0 +1,12 @@
+body{
+    text-align: justify;
+    font-size: 100%;
+    font-family: arial;
+    background: rgba(0, 89, 172, 0.582);
+}
+li{
+    color: rgba(15, 4, 168, 0.671);
+}
+h1{
+    color: rgba(89, 0, 172, 0.767);
+}

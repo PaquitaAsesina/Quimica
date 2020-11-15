@@ -1,0 +1,40 @@
+
+body{
+background:rgba(133, 86, 86, 0.425);
+text-align: justify;
+font-size: 100%;
+background-image: url("index.png");
+font-family: arial;
+}
+ul{
+margin: 10px auto;
+list-style: none;
+width: 100%;
+font-size: 18px;
+display: block;
+background: rgba(140, 0, 255, 0.178);
+color: rgb(0, 0, 0);
+border-bottom: 1px solid #000;
+border-top: 1px solid #666;
+text-decoration: none;
+box-sizing: border-box;
+overflow: hidden;
+transition: .3s all ease-in;
+padding: 10px 10px 10px 40px;
+border: 0;
+}
+a{
+    color: rgba(161, 0, 0, 0.671);
+}
+.contacto{
+ color: rgb(177, 115, 22);
+ font-size: 150%;
+ text-align: center;
+}
+h1{
+    font-size: 200%;
+    color: rgba(1, 123, 139, 0.671);
+}
+h2{
+    font-size: 105%;
+}
